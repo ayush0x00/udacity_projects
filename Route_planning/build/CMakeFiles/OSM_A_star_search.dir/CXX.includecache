@@ -6,22 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../thirdparty/pugixml/src/pugiconfig.hpp
-
-../thirdparty/pugixml/src/pugixml.hpp
-pugiconfig.hpp
-../thirdparty/pugixml/src/pugiconfig.hpp
-stddef.h
--
-exception
--
-iterator
--
-iosfwd
--
-string
--
-
 /home/cipher/Desktop/udacity_projects/Route_planning/src/main.cpp
 optional
 -
@@ -42,22 +26,6 @@ render.h
 route_planner.h
 /home/cipher/Desktop/udacity_projects/Route_planning/src/route_planner.h
 
-/home/cipher/Desktop/udacity_projects/Route_planning/src/model.cpp
-model.h
-/home/cipher/Desktop/udacity_projects/Route_planning/src/model.h
-pugixml.hpp
-/home/cipher/Desktop/udacity_projects/Route_planning/src/pugixml.hpp
-iostream
--
-string_view
--
-cmath
--
-algorithm
--
-assert.h
--
-
 /home/cipher/Desktop/udacity_projects/Route_planning/src/model.h
 vector
 -
@@ -68,12 +36,6 @@ string
 cstddef
 -
 
-/home/cipher/Desktop/udacity_projects/Route_planning/src/render.cpp
-render.h
-/home/cipher/Desktop/udacity_projects/Route_planning/src/render.h
-iostream
--
-
 /home/cipher/Desktop/udacity_projects/Route_planning/src/render.h
 unordered_map
 -
@@ -81,12 +43,6 @@ io2d.h
 -
 route_model.h
 /home/cipher/Desktop/udacity_projects/Route_planning/src/route_model.h
-
-/home/cipher/Desktop/udacity_projects/Route_planning/src/route_model.cpp
-route_model.h
-/home/cipher/Desktop/udacity_projects/Route_planning/src/route_model.h
-iostream
--
 
 /home/cipher/Desktop/udacity_projects/Route_planning/src/route_model.h
 limits
@@ -98,12 +54,6 @@ unordered_map
 model.h
 /home/cipher/Desktop/udacity_projects/Route_planning/src/model.h
 iostream
--
-
-/home/cipher/Desktop/udacity_projects/Route_planning/src/route_planner.cpp
-route_planner.h
-/home/cipher/Desktop/udacity_projects/Route_planning/src/route_planner.h
-algorithm
 -
 
 /home/cipher/Desktop/udacity_projects/Route_planning/src/route_planner.h
